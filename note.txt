@@ -1,0 +1,10 @@
+website hosting: netlify,github
+
+
+-----------------------------------------------------------------------------------
+                           github
+-----------------------------------------------------------------------------------
+git : used to control the version
+git status :- used to check status of git inside the folder
+git init:- initialising git repository in a folder
+git add . :- used to track all untracked files
